@@ -2,6 +2,7 @@
 Удаляет Watermark'у Gamma из Макетов Слайдов PPTX
 
 Использование:
+
 Windows
 ```bash
 Remover.exe [Input_Path] [Output_Path]
