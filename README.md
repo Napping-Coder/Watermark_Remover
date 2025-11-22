@@ -9,4 +9,6 @@ Linux/MacOS
 > Пример выделенного блока текста
 
 Raw
+```bash
 > python Remover.py [Input_Path] [Output_Path]
+```
