@@ -5,7 +5,9 @@
 
 Windows
 ```bash
+```diff
 !Remover.exe [Input_Path] [Output_Path]
+```
 ```
 
 Linux/MacOS
