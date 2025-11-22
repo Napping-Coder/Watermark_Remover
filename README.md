@@ -3,12 +3,16 @@
 
 Использование:
 Windows
-> Пример выделенного блока текста
+```bash
+Remover.exe [Input_Path] [Output_Path]
+```
 
 Linux/MacOS
-> Пример выделенного блока текста
+```bash
+./Remover [Input_Path] [Output_Path]
+```
 
 Raw
 ```bash
-> python Remover.py [Input_Path] [Output_Path]
+python Remover.py [Input_Path] [Output_Path]
 ```
