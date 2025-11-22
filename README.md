@@ -5,7 +5,7 @@
 
 Windows
 ```bash
-Remover.exe [Input_Path] [Output_Path]
+! Remover.exe [Input_Path] [Output_Path]
 ```
 
 Linux/MacOS
